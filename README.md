@@ -1,4 +1,14 @@
-# awesome-hacking
+# Awesome Hacking
+
+## Summary
+* [Guides](#guides)
+* [Cracking](#cracking)
+* [Privilege Escalation](#privilege-escalation)
+  * [Linux](#linux)
+  * [Windows](#windows)
+* [Web Application](#web-application)
+* [Buffer Overflow](#buffer-overflow)
+* [Misc](#misc)
 
 ## Guides
 - [Chryzsh - Pentestbook](https://chryzsh.gitbooks.io/pentestbook/content/)
