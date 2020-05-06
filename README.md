@@ -13,6 +13,7 @@
 ## Guides
 - [Chryzsh - Pentestbook](https://chryzsh.gitbooks.io/pentestbook/content/)
 - [Sushant747 - Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/)
+- [Red Teaming Experiments](https://ired.team/)
 
 ## Cracking
 - [Cracking everything with John the Ripper](https://bytesoverbombs.io/cracking-everything-with-john-the-ripper-d434f0f6dc1c)
