@@ -32,12 +32,15 @@
 - [Absolomb Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 - [Suhant747 OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
 - [Windows Privilege Esc Checklist](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
+- [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
+- Escalation Paths
+  - [Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
 - Automated Tools
   - [WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
+  - [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
   - [Windows Exploit Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
   - [Sherlock](https://github.com/rasta-mouse/Sherlock)
   - [Watson](https://github.com/rasta-mouse/Watson)
-  - [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
   - [JAWS](https://github.com/411Hall/JAWS)
   - [Metasploit Local Exploit Suggester](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
   - [Seatbelt](https://github.com/GhostPack/Seatbelt)
