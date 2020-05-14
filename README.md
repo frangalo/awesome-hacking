@@ -12,6 +12,7 @@
 
 ## Guides
 - [Chryzsh - Pentestbook](https://chryzsh.gitbooks.io/pentestbook/content/)
+- [six2dez - Pentestbook](https://six2dez.gitbook.io/pentest-book/)
 - [Sushant747 - Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/)
 - [Red Teaming Experiments](https://ired.team/)
 
@@ -32,9 +33,10 @@
 - [Absolomb Guide](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
 - [Suhant747 OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_windows.html)
 - [Windows Privilege Esc Checklist](https://book.hacktricks.xyz/windows/checklist-windows-privilege-escalation)
-- [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
 - Escalation Paths
-  - [Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
+  - [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
+  - [Token Impersonation - Juiciy Potato](https://github.com/ohpe/juicy-potato)
+  - [Token Impersonation - Rotten Potato](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
 - Automated Tools
   - [WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
   - [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
