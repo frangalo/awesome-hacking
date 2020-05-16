@@ -64,3 +64,4 @@
 - [Spawning a TTY Shell](https://netsec.ws/?p=337)
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 - [GTFOBins](https://gtfobins.github.io/)
+- [Alternate Data Streams](https://blog.malwarebytes.com/101/2015/07/introduction-to-alternate-data-streams/)
