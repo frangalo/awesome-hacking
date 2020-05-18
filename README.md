@@ -37,6 +37,7 @@
   - [Windows Kernel Exploits](https://github.com/SecWiki/windows-kernel-exploits)
   - [Token Impersonation - Juiciy Potato](https://github.com/ohpe/juicy-potato)
   - [Token Impersonation - Rotten Potato](https://foxglovesecurity.com/2016/09/26/rotten-potato-privilege-escalation-from-service-accounts-to-system/)
+  - [Getsystem Meterpreter](https://blog.cobaltstrike.com/2014/04/02/what-happens-when-i-type-getsystem/)
 - Automated Tools
   - [WinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS)
   - [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
